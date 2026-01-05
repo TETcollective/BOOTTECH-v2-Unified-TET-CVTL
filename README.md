@@ -30,7 +30,13 @@ DOI Zenodo (when published): [insert here]
 - `diagrammi/`: TikZ knot diagrams and additional visuals  
 
 ## License
-This work is released under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+This work is released under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+→ Academic/research use and modifications: permitted  
+→ **Commercial use prohibited**  
+→ No ShareAlike obligation
+
+See [LICENSE.md](LICENSE.md) for full text.
 
 → Academic/research use and modifications: permitted  
 → Derivative works: must use the same license  
