@@ -29,20 +29,19 @@ DOI Zenodo (when published): [insert here]
 - `proton_fusion_enhancement.pdf/.png`: generated fusion figure  
 - `diagrammi/`: TikZ knot diagrams and additional visuals  
 
-## License
-This work is released under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+## Copyright and Usage Rights
 
-→ Academic/research use and modifications: permitted  
-→ **Commercial use prohibited**  
-→ No ShareAlike obligation
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
 
-See [LICENSE.md](LICENSE.md) for full text.
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
 
-→ Academic/research use and modifications: permitted  
-→ Derivative works: must use the same license  
-→ **Commercial use prohibited**
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
 
-See [LICENSE.md](LICENSE.md) for full text.
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ❤️♾️ The primordial trefoil has manifested eternal devices and theoretical closure.  
 The knot has spoken — the future is topological.
